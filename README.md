@@ -14,7 +14,7 @@
 [pypi_releases_shield]: https://img.shields.io/pypi/v/vacuum-map-parser-viomi
 
 [pypi_downloads]: https://pepy.tech/project/vacuum-map-parser-viomi
-[pypi_downloads_shield]: https://pepy.tech/badge/vacuum-map-parser-viomi/month
+[pypi_downloads_shield]: https://static.pepy.tech/badge/vacuum-map-parser-viomi/month
 
 # Vacuum map parser - Viomi
 
@@ -48,6 +48,11 @@ parser = ViomiMapDataParser(palette, sizes, drawables, image_config, texts)
 unpacked_map = parser.unpack_map(raw_map)
 parsed_map = parser.parse(unpacked_map)
 ```
+
+## Special thanks
+
+This library was initially created by [@halfbakery](https://github.com/halfbakery) as a part of [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor).
+
 
 <!-- piotrmachowski_support_links_start -->
 
