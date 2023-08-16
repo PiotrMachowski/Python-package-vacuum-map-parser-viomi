@@ -51,7 +51,7 @@ parsed_map = parser.parse(unpacked_map)
 
 ## Special thanks
 
-This library was initially created by [@halfbakery](https://github.com/halfbakery) as a part of [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor).
+The code of this library was initially created by [@halfbakery](https://github.com/halfbakery) as a part of [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor).
 
 
 <!-- piotrmachowski_support_links_start -->
