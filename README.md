@@ -14,7 +14,7 @@
 [pypi_releases_shield]: https://img.shields.io/pypi/v/vacuum-map-parser-viomi
 
 [pypi_downloads]: https://pepy.tech/project/vacuum-map-parser-viomi
-[pypi_downloads_shield]: https://static.pepy.tech/badge/vacuum-map-parser-viomi/month
+[pypi_downloads_shield]: https://static.pepy.tech/badge/vacuum-map-parser-viomi
 
 # Vacuum map parser - Viomi
 
