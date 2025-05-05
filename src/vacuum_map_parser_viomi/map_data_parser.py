@@ -34,7 +34,7 @@ class ViomiMapDataParser(MapDataParser):
 
     POSITION_UNKNOWN = 1100
 
-    def __init__(
+    def __init__( # pylint: disable=R0917
         self,
         palette: ColorsPalette,
         sizes: Sizes,
